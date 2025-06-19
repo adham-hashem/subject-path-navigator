@@ -44,7 +44,7 @@ npm install
 npm start
 ```
 
---
+---
 
 ## 🧭 Usage
 -🔹 Launch the App
@@ -74,7 +74,7 @@ Click "Delete".
 -🔹 Navigate to Folder
 Click a subject to open its folder in the file explorer.
 
---
+---
 
 ## 🛠️ Development
 ### 🗂 Project Structure
@@ -100,7 +100,7 @@ electron-packager
 npm start
 ```
 
---
+---
 
 ## 📦 Building and Packaging
 ### 🔧 Build the App
@@ -109,7 +109,7 @@ npm run package
 ```
 Output will appear in: dist/SubjectNavigator-win32-x64
 
---
+---
 
 ## 🤝 Contributing
 Fork the repository.
@@ -122,12 +122,12 @@ Push to your fork: git push origin feature-branch
 
 Open a Pull Request.
 
---
+---
 
 ## 📜 License
 This project is licensed under the MIT License.
 
---
+---
 
 🙏 Acknowledgments
 Built using Electron

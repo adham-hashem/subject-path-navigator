@@ -129,7 +129,7 @@ This project is licensed under the MIT License.
 
 ---
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 Built using Electron
 
 Persistent storage by electron-store
